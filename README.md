@@ -1,4 +1,4 @@
-# Quadrotor Cotroller
+# Quadrotor Cotroller Simulation
 ![image](https://user-images.githubusercontent.com/19486359/107410672-82e53500-6b05-11eb-839b-5be608224f77.png)
 
 Quadrotor (Quadcopter) linear and non-linear controller simulation with noise button SIMULINK MATLAB.
